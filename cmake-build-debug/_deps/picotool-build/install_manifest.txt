@@ -1,0 +1,7 @@
+/Users/jenyatokarzhevsky/CLionProjects/CatGenieEmulator/cmake-build-debug/_deps/picotool/picotool
+/Users/jenyatokarzhevsky/CLionProjects/CatGenieEmulator/cmake-build-debug/_deps/picotool/picotoolTargets.cmake
+/Users/jenyatokarzhevsky/CLionProjects/CatGenieEmulator/cmake-build-debug/_deps/picotool/picotoolTargets-release.cmake
+/Users/jenyatokarzhevsky/CLionProjects/CatGenieEmulator/cmake-build-debug/_deps/picotool/picotoolConfig.cmake
+/Users/jenyatokarzhevsky/CLionProjects/CatGenieEmulator/cmake-build-debug/_deps/picotool/picotoolConfigVersion.cmake
+/Users/jenyatokarzhevsky/CLionProjects/CatGenieEmulator/cmake-build-debug/_deps/picotool/enc_bootloader.elf
+/Users/jenyatokarzhevsky/CLionProjects/CatGenieEmulator/cmake-build-debug/_deps/picotool/enc_bootloader_mbedtls.elf

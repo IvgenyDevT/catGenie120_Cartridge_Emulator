@@ -1,0 +1,27 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/aarch64/ninja -DPICO_BOARD=pimoroni_tiny2040 -DPICO_TOOLCHAIN_PATH=/Applications/ArmGNUToolchain/15.2.rel1/arm-none-eabi/bin -G Ninja -S /Users/jenyatokarzhevsky/CLionProjects/tiny2040_CatGenieEmulator -B /Users/jenyatokarzhevsky/CLionProjects/tiny2040_CatGenieEmulator/cmake-build-debug
+PICO_SDK_PATH is /Users/jenyatokarzhevsky/pico/pico-sdk
+Target board (PICO_BOARD) is 'pimoroni_tiny2040'.
+Using board configuration from /Users/jenyatokarzhevsky/pico/pico-sdk/src/boards/include/boards/pimoroni_tiny2040.h
+Pico Platform (PICO_PLATFORM) is 'rp2040'.
+Build type is Debug
+Using regular optimized debug build (set PICO_DEOPTIMIZED_DEBUG=1 to de-optimize)
+TinyUSB available at /Users/jenyatokarzhevsky/pico/pico-sdk/lib/tinyusb/hw/bsp/rp2040; enabling build support for USB.
+Compiling TinyUSB with CFG_TUSB_DEBUG=1
+BTstack available at /Users/jenyatokarzhevsky/pico/pico-sdk/lib/btstack
+cyw43-driver available at /Users/jenyatokarzhevsky/pico/pico-sdk/lib/cyw43-driver
+mbedtls available at /Users/jenyatokarzhevsky/pico/pico-sdk/lib/mbedtls
+lwIP available at /Users/jenyatokarzhevsky/pico/pico-sdk/lib/lwip
+Using picotool from /Users/jenyatokarzhevsky/CLionProjects/tiny2040_CatGenieEmulator/cmake-build-debug/_deps/picotool/picotool
+-- Configuring done (0.1s)
+CMake Error at CMakeLists.txt:19 (add_executable):
+  Cannot find source file:
+
+    SRIX4K-A4S_1GE_memory_emulator.h
+
+  Tried extensions .c .C .c++ .cc .cpp .cxx .cu .mpp .m .M .mm .ixx .cppm
+  .ccm .cxxm .c++m .h .hh .h++ .hm .hpp .hxx .in .txx .f .F .for .f77 .f90
+  .f95 .f03 .hip .ispc
+
+
+-- Generating done (0.1s)
+CMake Generate step failed.  Build files cannot be regenerated correctly.

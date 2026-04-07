@@ -1,0 +1,21 @@
+# ninja log v6
+1	16	1775400032555377729	picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-mkdir	7d1be9d1ea612cbf
+1	16	1775400032555377729	/Users/jenyatokarzhevsky/CLionProjects/CatGenieEmulator/cmake-build-debug/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-mkdir	7d1be9d1ea612cbf
+16	10643	1775400043182757377	picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-download	108c736f540f2f7e
+16	10643	1775400043182757377	/Users/jenyatokarzhevsky/CLionProjects/CatGenieEmulator/cmake-build-debug/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-download	108c736f540f2f7e
+10643	10680	1775400043183337004	picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-update	4d0eb849434f7bd4
+10643	10680	1775400043183337004	/Users/jenyatokarzhevsky/CLionProjects/CatGenieEmulator/cmake-build-debug/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-update	4d0eb849434f7bd4
+10680	10691	1775400043230817872	picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-patch	720cf09789effb6
+10680	10691	1775400043230817872	/Users/jenyatokarzhevsky/CLionProjects/CatGenieEmulator/cmake-build-debug/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-patch	720cf09789effb6
+10691	10702	1775400043240990623	picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-configure	c02a6a96f21d0573
+10691	10702	1775400043240990623	/Users/jenyatokarzhevsky/CLionProjects/CatGenieEmulator/cmake-build-debug/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-configure	c02a6a96f21d0573
+10702	10712	1775400043251883586	picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-build	9e9a010788eafc98
+10702	10712	1775400043251883586	/Users/jenyatokarzhevsky/CLionProjects/CatGenieEmulator/cmake-build-debug/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-build	9e9a010788eafc98
+10712	10724	1775400043263218384	picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-install	687b48af5d345aaa
+10712	10724	1775400043263218384	/Users/jenyatokarzhevsky/CLionProjects/CatGenieEmulator/cmake-build-debug/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-install	687b48af5d345aaa
+10724	10734	1775400043273929137	picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-test	b0abf0a677c6d80f
+10724	10734	1775400043273929137	/Users/jenyatokarzhevsky/CLionProjects/CatGenieEmulator/cmake-build-debug/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-test	b0abf0a677c6d80f
+10734	10748	1775400043287787696	CMakeFiles/picotool-populate-complete	358068c4b5c2ad2f
+10734	10748	1775400043287787696	picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-done	358068c4b5c2ad2f
+10734	10748	1775400043287787696	/Users/jenyatokarzhevsky/CLionProjects/CatGenieEmulator/cmake-build-debug/_deps/picotool-subbuild/CMakeFiles/picotool-populate-complete	358068c4b5c2ad2f
+10734	10748	1775400043287787696	/Users/jenyatokarzhevsky/CLionProjects/CatGenieEmulator/cmake-build-debug/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-done	358068c4b5c2ad2f
